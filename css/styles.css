@@ -2,6 +2,8 @@
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("../img/grid-bg.png") repeat-y;}
 
-font-family: 'Poiret One', cursive;
+h1 {font-family: 'Poiret One', cursive;}
+h3 {font-family: 'Poiret One', cursive;}
+p {font-family: 'Lustria', serif;}
